@@ -1,7 +1,7 @@
 # 🔐 Secrets Web Application
 
-![Secrets Banner](![image](https://github.com/user-attachments/assets/7865866c-efda-4cf9-8c2d-2b175b369319)
-)
+![image](https://github.com/user-attachments/assets/7865866c-efda-4cf9-8c2d-2b175b369319)
+
 
 > A secure, modern web application that allows users to register, log in, and anonymously post fun or personal secrets. Built with robust authentication and stylish UI for a fun and safe experience.
 
