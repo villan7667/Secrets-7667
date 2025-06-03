@@ -7,9 +7,13 @@
 
 ---
 
-## 🚀 Live Demo
+## 🔗 Live Demo
 
-🔗 [Check it Live on Render](https://secrets-villanat7667.onrender.com/)  
+<div align="center">
+  <a href="https://secrets-villanat7667.onrender.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Live%20Now%20-%20Click%20to%20Open-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
 
 
 ---
